@@ -24,7 +24,7 @@ class UFO {
 
   void move() {
     if (isHit != true) {
-      this.x = this.x+3.5;
+      this.x = this.x+2.5;
     }
   }
 }
