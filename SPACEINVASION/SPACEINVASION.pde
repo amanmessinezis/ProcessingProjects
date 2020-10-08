@@ -56,6 +56,8 @@ void startup() {
   text("SPACE INVASION", width/2, height/2);
   textSize(20);
   text("press spacebar to play", width/2, (height/2) + 50);
+  textSize(15);
+  text("click to shoot the UFOs!", width/2, (height/2) + 80);
 }
 
 void setrandomX() { // set random x values to an array of x values called xCoordinates
