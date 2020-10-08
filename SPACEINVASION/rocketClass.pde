@@ -1,3 +1,4 @@
+/*
 class Rocket{
   PImage rocketImage;
   float xPos, yPos;
@@ -22,3 +23,4 @@ class Rocket{
     isHit = true;
   }
 }
+*/
