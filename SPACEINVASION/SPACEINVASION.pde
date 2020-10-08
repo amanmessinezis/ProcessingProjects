@@ -22,7 +22,7 @@ void setup() {
   score = 0;
   stars = loadImage("stars.jpg");
   size(500, 500); // CHANGE SIZE OF SCREEN
-  numberOfufos = 100; // HOW MANY SPACESHIPS DO YOU WANT
+  numberOfufos = 50; // HOW MANY SPACESHIPS DO YOU WANT
   ufos = new UFO[numberOfufos]; 
   setrandomX();
   setrandomY();
